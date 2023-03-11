@@ -6,7 +6,7 @@ import pandas as pd
 
 
 EMAIL = "aigboje.python@gmail.com"
-PASSWORD = "odjieouhexbefofu"
+PASSWORD = "odj"
 
 now = dt.datetime.now()
 today_year = now.year
